@@ -1,0 +1,12 @@
+{
+  "name": "printers-azure",
+  "version": "1.0.0",
+  "description": "Sitio estatico servido con Node en Azure App Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
